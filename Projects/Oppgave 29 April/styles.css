@@ -7,6 +7,7 @@
 .card {
     box-shadow: 0 4px 8px 0 rgba(rgb(255, 0, 0), green, blue, alpha);
     transition: 0.3;
+    background-color:teal
 }
 
 .card:hover {
